@@ -1,0 +1,9 @@
+*{margin: 0; padding: 0;}
+.mainWrapper{width: 1298px; margin: 0 auto;}
+
+.periodicBlock{width: 70px; height: 75px; background-color: red; float:left;}
+.element{border: 1px solid white}
+.empty{background-color: white; border: 1px solid white}
+.nobleGas{background-color: blue;}
+.atomicSymbol, .atomicWeight, .atomicName{text-align: center;}
+.atomicWeight{width: 100%; display: block;}
