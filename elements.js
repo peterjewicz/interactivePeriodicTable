@@ -430,9 +430,287 @@ elements[71]['symbol'] = "Lu";
 elements[71]['name'] = "Lutetium";
 elements[71]['weight'] = 174.966;
 
+elements[72] = {};
+elements[72]['number'] = 72;
+elements[72]['symbol'] = "Hf";
+elements[72]['name'] = "Halfnium";
+elements[72]['weight'] = 178.49;
 
+elements[73] = {};
+elements[73]['number'] = 73;
+elements[73]['symbol'] = "Ta";
+elements[73]['name'] = "Tantaium";
+elements[73]['weight'] = 180.94;
 
+elements[74] = {};
+elements[74]['number'] = 74;
+elements[74]['symbol'] = "W";
+elements[74]['name'] = "Tungsten";
+elements[74]['weight'] = 183.84;
 
+elements[75] = {};
+elements[75]['number'] = 75;
+elements[75]['symbol'] = "Re";
+elements[75]['name'] = "Rhenium";
+elements[75]['weight'] = 186.207;
+
+elements[76] = {};
+elements[76]['number'] = 76;
+elements[76]['symbol'] = "Os";
+elements[76]['name'] = "Osmium";
+elements[76]['weight'] = 190.23;
+
+elements[77] = {};
+elements[77]['number'] = 77;
+elements[77]['symbol'] = "Ir";
+elements[77]['name'] = "Iridium";
+elements[77]['weight'] = 192.217;
+
+elements[78] = {};
+elements[78]['number'] = 78;
+elements[78]['symbol'] = "Pt";
+elements[78]['name'] = "Platinum";
+elements[78]['weight'] = 195.084;
+
+elements[79] = {};
+elements[79]['number'] = 79;
+elements[79]['symbol'] = "Au";
+elements[79]['name'] = "Gold";
+elements[79]['weight'] = 196.96;
+
+elements[80] = {};
+elements[80]['number'] = 80;
+elements[80]['symbol'] = "Hg";
+elements[80]['name'] = "Mercury";
+elements[80]['weight'] = 200.59;
+
+elements[81] = {};
+elements[81]['number'] = 81;
+elements[81]['symbol'] = "Tl";
+elements[81]['name'] = "Thallium";
+elements[81]['weight'] = 204.38;
+
+elements[82] = {};
+elements[82]['number'] = 82;
+elements[82]['symbol'] = "Pb";
+elements[82]['name'] = "Lead";
+elements[82]['weight'] = 207.2;
+
+elements[83] = {};
+elements[83]['number'] = 83;
+elements[83]['symbol'] = "Bi";
+elements[83]['name'] = "Bismuth";
+elements[83]['weight'] = 208.98;
+
+elements[84] = {};
+elements[84]['number'] = 84;
+elements[84]['symbol'] = "Po";
+elements[84]['name'] = "Polonium";
+elements[84]['weight'] = 209;
+
+elements[85] = {};
+elements[85]['number'] = 85;
+elements[85]['symbol'] = "At";
+elements[85]['name'] = "Astatine";
+elements[85]['weight'] = 210;
+
+elements[86] = {};
+elements[86]['number'] = 86;
+elements[86]['symbol'] = "Rn";
+elements[86]['name'] = "Radon";
+elements[86]['weight'] = 222;
+
+elements[87] = {};
+elements[87]['number'] = 87;
+elements[87]['symbol'] = "Fr";
+elements[87]['name'] = "Francium";
+elements[87]['weight'] = 223;
+
+elements[88] = {};
+elements[88]['number'] = 88;
+elements[88]['symbol'] = "Ra";
+elements[88]['name'] = "Radium";
+elements[88]['weight'] = 226;
+
+elements[89] = {};
+elements[89]['number'] = 89;
+elements[89]['symbol'] = "Ac";
+elements[89]['name'] = "Actinium";
+elements[89]['weight'] = 227;
+
+elements[90] = {};
+elements[90]['number'] = 90;
+elements[90]['symbol'] = "Th";
+elements[90]['name'] = "Thorium";
+elements[90]['weight'] = 232.037;
+
+elements[91] = {};
+elements[91]['number'] = 91;
+elements[91]['symbol'] = "Pa";
+elements[91]['name'] = "Proctactinium";
+elements[91]['weight'] = 231.035;
+
+elements[92] = {};
+elements[92]['number'] = 92;
+elements[92]['symbol'] = "U";
+elements[92]['name'] = "Uranium";
+elements[92]['weight'] = 238.028;
+
+elements[93] = {};
+elements[93]['number'] = 93;
+elements[93]['symbol'] = "Np";
+elements[93]['name'] = "Neptunium";
+elements[93]['weight'] = 237;
+
+elements[94] = {};
+elements[94]['number'] = 94;
+elements[94]['symbol'] = "Pu";
+elements[94]['name'] = "Plutonium";
+elements[94]['weight'] = 244;
+
+elements[95] = {};
+elements[95]['number'] = 95;
+elements[95]['symbol'] = "Am";
+elements[95]['name'] = "Americium";
+elements[95]['weight'] = 243;
+
+elements[96] = {};
+elements[96]['number'] = 96;
+elements[96]['symbol'] = "Cm";
+elements[96]['name'] = "Curium";
+elements[96]['weight'] = 247;
+
+elements[97] = {};
+elements[97]['number'] = 97;
+elements[97]['symbol'] = "Bk";
+elements[97]['name'] = "Berkelium";
+elements[97]['weight'] = 247;
+
+elements[98] = {};
+elements[98]['number'] = 98;
+elements[98]['symbol'] = "Cf";
+elements[98]['name'] = "Californium";
+elements[98]['weight'] = 251;
+
+elements[99] = {};
+elements[99]['number'] = 99;
+elements[99]['symbol'] = "Es";
+elements[99]['name'] = "Einsteiunium";
+elements[99]['weight'] = 252;
+
+elements[100] = {};
+elements[100]['number'] = 100;
+elements[100]['symbol'] = "Fm";
+elements[100]['name'] = "Fermium";
+elements[100]['weight'] = 257;
+
+elements[101] = {};
+elements[101]['number'] = 101;
+elements[101]['symbol'] = "Md";
+elements[101]['name'] = "Mendelevium";
+elements[101]['weight'] = 258;
+
+elements[102] = {};
+elements[102]['number'] = 102;
+elements[102]['symbol'] = "No";
+elements[102]['name'] = "Nobelium";
+elements[102]['weight'] = 259;
+
+elements[103] = {};
+elements[103]['number'] = 103;
+elements[103]['symbol'] = "Lr";
+elements[103]['name'] = "Lawrencium";
+elements[103]['weight'] = 262;
+
+elements[104] = {};
+elements[104]['number'] = 104;
+elements[104]['symbol'] = "Rf";
+elements[104]['name'] = "Rutherfordium";
+elements[104]['weight'] = 267;
+
+elements[105] = {};
+elements[105]['number'] = 105;
+elements[105]['symbol'] = "Db";
+elements[105]['name'] = "Dubnium";
+elements[105]['weight'] = 268;
+
+elements[106] = {};
+elements[106]['number'] = 106;
+elements[106]['symbol'] = "Sg";
+elements[106]['name'] = "Seaborgium";
+elements[106]['weight'] = 271;
+
+elements[107] = {};
+elements[107]['number'] = 107;
+elements[107]['symbol'] = "Bh";
+elements[107]['name'] = "Bohrium";
+elements[107]['weight'] = 272;
+
+elements[108] = {};
+elements[108]['number'] = 108;
+elements[108]['symbol'] = "Hs";
+elements[108]['name'] = "Hassium";
+elements[108]['weight'] = 270;
+
+elements[109] = {};
+elements[109]['number'] = 109;
+elements[109]['symbol'] = "Mt";
+elements[109]['name'] = "Meitnerium";
+elements[109]['weight'] = 276;
+
+elements[110] = {};
+elements[110]['number'] = 110;
+elements[110]['symbol'] = "Ds";
+elements[110]['name'] = "Darmstadtium";
+elements[110]['weight'] = 281;
+
+elements[111] = {};
+elements[111]['number'] = 111;
+elements[111]['symbol'] = "Rg";
+elements[111]['name'] = "Roentgenium";
+elements[111]['weight'] = 280;
+
+elements[112] = {};
+elements[112]['number'] = 112;
+elements[112]['symbol'] = "Cn";
+elements[112]['name'] = "Copernicium";
+elements[112]['weight'] = 285;
+
+elements[113] = {};
+elements[113]['number'] = 113;
+elements[113]['symbol'] = "Uut";
+elements[113]['name'] = "Ununtrium";
+elements[113]['weight'] = 284;
+
+elements[114] = {};
+elements[114]['number'] = 114;
+elements[114]['symbol'] = "Fl";
+elements[114]['name'] = "Flerovium";
+elements[114]['weight'] = 289;
+
+elements[115] = {};
+elements[115]['number'] = 115;
+elements[115]['symbol'] = "Uup";
+elements[115]['name'] = "Ununpentium";
+elements[115]['weight'] = 288;
+
+elements[116] = {};
+elements[116]['number'] = 116;
+elements[116]['symbol'] = "Lv";
+elements[116]['name'] = "Livermonium";
+elements[116]['weight'] = 293;
+
+elements[117] = {};
+elements[117]['number'] = 117;
+elements[117]['symbol'] = "Uus";
+elements[117]['name'] = "Ununspetium";
+elements[117]['weight'] = 294;
+
+elements[118] = {};
+elements[118]['number'] = 118;
+elements[118]['symbol'] = "Uuo";
+elements[118]['name'] = "Ununoctium";
+elements[118]['weight'] = 294;
 
 
 
