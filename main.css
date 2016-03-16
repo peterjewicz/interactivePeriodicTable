@@ -7,3 +7,4 @@
 .nobleGas{background-color: blue;}
 .atomicSymbol, .atomicWeight, .atomicName{text-align: center;}
 .atomicWeight{width: 100%; display: block;}
+.breaker{float:left}
