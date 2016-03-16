@@ -1,10 +1,22 @@
 *{margin: 0; padding: 0;}
 .mainWrapper{width: 1298px; margin: 0 auto;}
 
-.periodicBlock{width: 70px; height: 75px; background-color: red; float:left;}
+.periodicBlock{width: 70px; height: 75px; background-color: #cccccd; float:left;}
 .element{border: 1px solid white}
 .empty{background-color: white; border: 1px solid white}
-.nobleGas{background-color: blue;}
+
 .atomicSymbol, .atomicWeight, .atomicName{text-align: center;}
 .atomicWeight{width: 100%; display: block;}
 .breaker{float:left}
+
+
+.nobleGas{background-color: #70359f;}
+.alkaliMetals{background-color: #cc3c5c;}
+.alkaliEarthMetals{background-color: #17a347;}
+.halogens{background-color: #96cedd;}
+.lanthanoids{background-color: #b2a3c7;}
+.actinoids{background-color: #e36d22;}
+.transitionMetals{background-color: #1db2ee;}
+.poorMetals{background-color: #36849b;}
+.otherNonMetals{background-color: #fec02d;}
+.metalloids{background-color: #bf0711;}
