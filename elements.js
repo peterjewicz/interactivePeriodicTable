@@ -8,6 +8,21 @@ elements[1]['number'] = 1;
 elements[1]['symbol'] = "H";
 elements[1]['name'] = "Hydrogen";
 elements[1]['weight'] = 1.008;
+elements[1]['meltingPoint'] = "13.99K/-259.16C/-434.49F";
+elements[1]['boilingPoint'] = "20.271K/-252.879C/-423.182F";
+elements[1]['year'] = 1766;
+elements[1]['discoveredBy'] = 'Henry Cavendis';
+elements[1]['isotopes'] = {}
+elements[1]['isotopes'][0] = {}
+elements[1]['isotopes'][1] = {}
+elements[1]['isotopes'][0]['name'] = "Hydrogen";
+elements[1]['isotopes'][0]['na'] = '99.9885%';
+elements[1]['isotopes'][0]['halfLife'] = 'stable'
+elements[1]['isotopes'][1]['name'] = "Deuterium";
+elements[1]['isotopes'][1]['na'] = '.0115%';
+elements[1]['isotopes'][1]['halfLife'] = 'stable'
+
+
 
 elements[2] = {};
 elements[2]['number'] = 2;
@@ -732,4 +747,11 @@ jQuery('.element').each(function(){
   $(this).find('.atomicWeight').html(elements[number].weight)
   $(this).find('.atomicName').html(elements[number].name)
   $(this).find('.atomicSymbol').html(elements[number].symbol)
+});
+
+
+//onclick for info areas in popup
+$('.dropDownHeader').click(function(){
+    $(this).find('.arrow').toggleClass('hiddenArrow');
+    $(this).next('.infoWrapper').toggleClass('infoOpen')
 });
